@@ -1,16 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace FAIDotnetAssignment
+﻿namespace FAIDotnetAssignment
 {
     class Ass03
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            
+            var a = 3;
         }
     }
 }
