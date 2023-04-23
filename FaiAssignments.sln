@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaiAssignments", "FaiAssignments\FaiAssignments.csproj", "{2C3CED54-187D-458B-808F-A79B9EE46B7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C3CED54-187D-458B-808F-A79B9EE46B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3CED54-187D-458B-808F-A79B9EE46B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3CED54-187D-458B-808F-A79B9EE46B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3CED54-187D-458B-808F-A79B9EE46B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D163FC8-0149-4AEB-B3C2-9620650601F0}
+	EndGlobalSection
+EndGlobal
