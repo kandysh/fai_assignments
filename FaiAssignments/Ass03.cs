@@ -1,10 +1,10 @@
-﻿namespace FAIDotnetAssignment
+namespace FaiAssignments
 {
-    internal static class Ass03
+    internal class Calculator
     {
         private static void Main(string[] args)
         {
-
+            var a = 3;
         }
     }
 }
