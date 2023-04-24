@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace FAIDotnetAssignment
 {
-    class Ass01
+    internal static class Ass01
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Range of all the integral Types");
 
@@ -21,7 +17,6 @@ namespace FAIDotnetAssignment
             Console.WriteLine($"Uint16 Max Min Length {UInt16.MaxValue} - {UInt16.MinValue}");
             Console.WriteLine($"Uint32 Max Min Length {UInt32.MaxValue} - {UInt32.MinValue}");
             Console.WriteLine($"Uint64 Max Min Length {UInt64.MaxValue} - {UInt64.MinValue}");
-           
         }
     }
 }

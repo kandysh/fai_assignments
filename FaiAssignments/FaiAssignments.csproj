@@ -51,6 +51,7 @@
     <Compile Include="Ass03.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UIConsole.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
