@@ -4,7 +4,6 @@ namespace FAIDotnetAssignment
 {
     internal static class Ass02
     {
-
         private static void Main()
         {
             int[] nums = new int[] { 21, 46, 78, 9, 10, 3 };

@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>FAIDotnetAssignment.Ass03</StartupObject>
+    <StartupObject>FaiAssignments.Ass10</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,9 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ass07.cs" />
     <Compile Include="Ass01.cs" />
     <Compile Include="Ass02.cs" />
     <Compile Include="Ass03.cs" />
+    <Compile Include="Ass04.cs" />
+    <Compile Include="Ass05.cs" />
+    <Compile Include="Ass06.cs" />
+    <Compile Include="Ass08.cs" />
+    <Compile Include="Ass09.cs" />
+    <Compile Include="Ass10.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UIConsole.cs" />

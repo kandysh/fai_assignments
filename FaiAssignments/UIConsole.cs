@@ -27,5 +27,11 @@ namespace FaiAssignments
             Console.WriteLine(question);
             return DateTime.Parse(Console.ReadLine());
         }
+
+        internal static long GetLong(string question)
+        {
+            Console.WriteLine(question);
+            return long.Parse(Console.ReadLine());
+        }
     }
 }
